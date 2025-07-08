@@ -46,7 +46,7 @@ README.md # Documentação do projeto
 
 1. Clone este repositório:
 
-git clone <URL-do-repositorio>
+git clone https://github.com/CarlosGeovan/desafioInmetrics.git
 cd inmetrics-automation
 
 ## Instale as dependências do projeto:
